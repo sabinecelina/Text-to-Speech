@@ -22,3 +22,4 @@ emotionaler Betonung: Ich freue mich sehr, dass du heute hier bist!"""
 
 asyncio.run(speak(text))
 ```
+[Listen to the audio result](./output_edge_tts.mp3)
